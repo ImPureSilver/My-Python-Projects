@@ -1,0 +1,8 @@
+Hello fellow human. 
+
+
+If you are interested in trying to run this on your computer, then I must inform you of a few things you will need to run the app.py.
+
+1. You need to have an installation of Python 3.6 or greater(Why? Well, because i did program this using python 3.6, so its a safe measure.)
+2. You will need to download Pandas and Folium via pip (if you have a Linux distribution, then you most likely will have multiple installations of python, so I recommend for you to use pip 3).
+Other than that, have fun!!! I have written all of my comments to better explain the code to whoever wishes to read it.
