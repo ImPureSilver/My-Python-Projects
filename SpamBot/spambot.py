@@ -1,7 +1,8 @@
 """
-thi is a bot that I have made. All it does is spam a message in a message box.
+this is a bot that I have made. All it does is spam a message in a message box.
 You will, however, need to know the coordinates of where you want the bot to click.
-Also, this program can be freely manipulated/edited. Makes something of it. Maybe even make it so that it can detetect message boxes and turn it into something cooler.
+Also, this program can be freely manipulated/edited. Makes something of it. 
+Maybe even make it so that it can detetect message boxes and turn it into something cooler.
 """
 # Requirements: Python, pip, PyUserInput
 # You will need to install PyUserInput using pip
